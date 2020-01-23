@@ -1,0 +1,63 @@
+############################
+############################
+#
+# Team 501 Robot Properties
+#
+#  <Twin-Bot>
+#
+############################
+############################
+
+
+#####################
+# Module Enables
+#####################
+PDB.useRealModule = true
+PCM.useRealModule = false
+
+
+#####################
+# Sensor Enables
+#####################
+Camera.useRealSensor = true
+Floor.useRealSensor = false
+Gyro.useRealSensor = false
+
+
+#####################
+# Subsystem Enables
+#####################
+Drive.useRealSubsystem = true
+Lift.useRealSubsystem = true
+Elbow.useRealSubsystem = true
+Claw.useRealSubsystem = true
+Climber.useRealSubsystem = false
+
+
+#####################
+# Lift
+#####################
+Lift.calPosition = 2.0
+
+
+#####################
+# Elbow
+#####################
+Elbow.calPosition = -387
+
+
+#####################
+# Climber
+#####################
+Climber.calPosition = 0
+
+
+#####################
+# Driver Gamepad
+#####################
+
+
+#####################
+# Operator Gamepad
+#####################
+

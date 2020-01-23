@@ -1,0 +1,63 @@
+############################
+############################
+#
+# Team 501 Robot Properties
+#
+#  <Suitcase-Bot>
+#
+############################
+############################
+
+
+#####################
+# Module Enables
+#####################
+PDB.useRealModule = true
+PCM.useRealModule = false
+
+
+#####################
+# Sensor Enables
+#####################
+Camera.useRealSensor = true
+Floor.useRealSensor = false
+Gyro.useRealSensor = false
+
+
+#####################
+# Subsystem Enables
+#####################
+Drive.useRealSubsystem = false
+Lift.useRealSubsystem = false
+Elbow.useRealSubsystem = false
+Claw.useRealSubsystem = false
+Climber.useRealSubsystem = false
+
+
+#####################
+# Lift
+#####################
+Lift.calPosition = 0.02
+
+
+#####################
+# Elbow
+#####################
+Elbow.calPosition = -390.0
+
+
+#####################
+# Climber
+#####################
+Climber.calPosition = 0
+
+
+#####################
+# Driver Gamepad
+#####################
+
+
+#####################
+# Operator Gamepad
+#####################
+
